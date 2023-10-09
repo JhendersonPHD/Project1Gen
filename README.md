@@ -396,6 +396,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Note: This README was generated automatically from a Jupyter notebook.*
 
     
