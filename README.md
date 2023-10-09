@@ -267,18 +267,18 @@ for epoch in range(epochs):
 
 
     
-![png](EpochBegin.png)
+![png](epochbegin.png)
     
 
 
 
     
-![png](epoch10.png)
+![png](Epoch10.png)
     
 
 
     
-![png](epoch30.png)
+![png](Epoch30.png)
     
 
 
@@ -289,7 +289,7 @@ for epoch in range(epochs):
 
 
     
-![png](epoch150.png)
+![png](Epoch150.png)
     
 
 
