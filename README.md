@@ -264,31 +264,31 @@ for epoch in range(epochs):
     [Epoch 0/200] [Batch 400/938] [D loss: 0.2763] [G loss: 1.9455]
     [Epoch 0/200] [Batch 800/938] [D loss: 0.7840] [G loss: 1.1861]
 
-
+### At the 1st Epoch 
 
     
 ![png](epochbegin.png)
     
 
-
+### At the 10th Epoch 
 
     
 ![png](Epoch10.png)
     
 
 
-    
+ ### At the 30th Epoch 
 ![png](Epoch30.png)
     
 
 
 
-    
+ ### At the 100th Epoch    
 ![png](epoch100.png)
     
 
 
-    
+### At the 150th Epoch     
 ![png](Epoch150.png)
     
 
@@ -341,7 +341,7 @@ plt.show()
 ### Result after 200 Epochs    
 ![png](FinalImage.png)
     
-### Result after 200 Epochs    
+### Epoch Results Chart    
 ![png](EpochChart.png)
     
 
