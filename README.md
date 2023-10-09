@@ -339,9 +339,11 @@ plt.show()
 
 
 ### Result after 200 Epochs    
-![png](Final Image.png)
+![png](FinalImage.png)
     
-
+### Result after 200 Epochs    
+![png](EpochChart.png)
+    
 
 
 
