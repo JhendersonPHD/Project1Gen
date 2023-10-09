@@ -2,7 +2,7 @@
     
 # GANs Model Implementation
 
-This repository contains the implementation of a Generative Adversarial Network (GAN) model. Below you will find details from the Jupyter notebook that showcases the implementation and results.
+This repository contains the implementation of a Generative Adversarial Network (GAN) model. 
 
 ---
 
