@@ -2,7 +2,7 @@
     
 # GANs Model Implementation
 
-This repository contains the implementation of a Generative Adversarial Network (GAN) model. Below you will find details from the Jupyter notebook that showcases the implementation and results.
+This repository contains the implementation of a Generative Adversarial Network (GAN) model. 
 
 ---
 
@@ -264,32 +264,32 @@ for epoch in range(epochs):
     [Epoch 0/200] [Batch 400/938] [D loss: 0.2763] [G loss: 1.9455]
     [Epoch 0/200] [Batch 800/938] [D loss: 0.7840] [G loss: 1.1861]
 
-
-
-    
-![png](EpochBegin.png)
-    
-
-
+### At the 1st Epoch 
 
     
-![png](epoch10.png)
+![png](epochbegin.png)
     
 
+### At the 10th Epoch 
 
     
-![png](epoch30.png)
+![png](Epoch10.png)
     
 
 
-
+ ### At the 30th Epoch 
+![png](Epoch30.png)
     
+
+
+
+ ### At the 100th Epoch    
 ![png](epoch100.png)
     
 
 
-    
-![png](epoch150.png)
+### At the 150th Epoch     
+![png](Epoch150.png)
     
 
 
@@ -339,9 +339,11 @@ plt.show()
 
 
 ### Result after 200 Epochs    
-![png](Final Image.png)
+![png](FinalImage.png)
     
-
+### Epoch Results Chart    
+![png](EpochChart.png)
+    
 
 
 
@@ -394,6 +396,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Note: This README was generated automatically from a Jupyter notebook.*
 
     
